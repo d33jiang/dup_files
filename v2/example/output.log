@@ -1,0 +1,47 @@
+# Initial State
+File Classes
+- ['D:\\temp\\code.zip', 'D:\\temp\\code\\fba.py', 'D:\\temp\\code - Copy\\fba - Comment.py', 'D:\\temp\\code - Copy\\fba - Copy.py', 'D:\\temp\\code - Copy\\fba.py']
+
+Singletons
+[]
+
+
+# Naive Name Checksum Results
+4 D:\temp\code.zip
+0 D:\temp\code\fba.py
+0 D:\temp\code - Copy\fba - Comment.py
+0 D:\temp\code - Copy\fba - Copy.py
+0 D:\temp\code - Copy\fba.py
+
+# Group by Naive Name Checksum
+File Classes
+- ['D:\\temp\\code\\fba.py', 'D:\\temp\\code - Copy\\fba - Comment.py', 'D:\\temp\\code - Copy\\fba - Copy.py', 'D:\\temp\\code - Copy\\fba.py']
+
+Singletons
+['D:\\temp\\code.zip']
+
+
+# Group by File Size
+File Classes
+- ['D:\\temp\\code\\fba.py', 'D:\\temp\\code - Copy\\fba - Copy.py', 'D:\\temp\\code - Copy\\fba.py']
+
+Singletons
+['D:\\temp\\code.zip', 'D:\\temp\\code - Copy\\fba - Comment.py']
+
+
+# Group by Hashes
+File Classes
+- ['D:\\temp\\code\\fba.py', 'D:\\temp\\code - Copy\\fba - Copy.py', 'D:\\temp\\code - Copy\\fba.py']
+
+Singletons
+['D:\\temp\\code.zip', 'D:\\temp\\code - Copy\\fba - Comment.py']
+
+
+# Group by File Content
+File Classes
+- ['D:\\temp\\code\\fba.py', 'D:\\temp\\code - Copy\\fba - Copy.py', 'D:\\temp\\code - Copy\\fba.py']
+
+Singletons
+['D:\\temp\\code.zip', 'D:\\temp\\code - Copy\\fba - Comment.py']
+
+
